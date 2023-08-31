@@ -1,4 +1,5 @@
 # inventoryApp
-Simple app for product inventory 
+Simple app for product inventory.
+
 Mini assignments - learning JavaScript.
 
